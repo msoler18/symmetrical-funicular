@@ -57,7 +57,7 @@ Actualiza el estado según avances. Elimina el archivo cuando todas las etapas e
 
 3. **Testear**
 
-   - Escribir test primero (rojo)
+   - Escribir test primero
    - Incluir casos extremos
    - Benchmarks de rendimiento si es relevante
 
